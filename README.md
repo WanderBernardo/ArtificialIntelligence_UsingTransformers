@@ -76,7 +76,7 @@ Result:
 ![image](https://github.com/user-attachments/assets/d4f04024-461f-4e83-b29f-0ed4978e97e3)
 
 
-Useful links:
+## Useful links:
 - https://github.com/WanderBernardo/ArtificialIntelligence_HuggingFace
 - https://github.com/WanderBernardo/ArtificialIntelligence_UsingBERT
 
