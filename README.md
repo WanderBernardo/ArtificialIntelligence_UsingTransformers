@@ -4,6 +4,10 @@ The goal is use Transformer via code in Python Language
 - Tranformer is a type of neural network architecture that transforms or changes an input sequence into an output sequence. They do this by learning the context and tracking the relationships between the components of the sequence.
 - https://en.wikipedia.org/wiki/Attention_Is_All_You_Need
 
+- It’s a general architecture of a neural network introduced in 2017 by the paper "Attention is All You Need." It acts as the "skeleton" that defines how data is processed in multiple stages. The core idea of the Transformer is the attention mechanism, which helps focus more on the important parts of the input (e.g., words in a sentence). The Transformer can be used for various tasks, such as language translation, text generation, or classification.
+
+- In summary: The Transformer is a versatile tool for working with sequential data, like text.
+
 ### Use tools:
 
 - Hugging Face: https://huggingface.co/
