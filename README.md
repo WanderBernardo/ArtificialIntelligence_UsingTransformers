@@ -77,7 +77,7 @@ Result:
 
 
 Useful links:
-https://github.com/WanderBernardo/ArtificialIntelligence_HuggingFace
-https://github.com/WanderBernardo/ArtificialIntelligence_UsingBERT
+- https://github.com/WanderBernardo/ArtificialIntelligence_HuggingFace
+- https://github.com/WanderBernardo/ArtificialIntelligence_UsingBERT
 
 
