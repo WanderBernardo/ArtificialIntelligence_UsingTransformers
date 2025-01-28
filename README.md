@@ -1,6 +1,9 @@
 # Artificial Intelligence: Using Transformers via code in Python Language
 The goal is use Transformer via code in Python Language
 
+- Tranformer is a type of neural network architecture that transforms or changes an input sequence into an output sequence. They do this by learning the context and tracking the relationships between the components of the sequence.
+- https://en.wikipedia.org/wiki/Attention_Is_All_You_Need
+
 ### Use tools:
 
 - Hugging Face: https://huggingface.co/
