@@ -32,7 +32,11 @@ Only need pass URL, where join in the visible text separete for space.
 
 ## Using the Pure Transformer
 # 1 - Q & R (Question and Answer)
+
+Ideal use this tools in situation that I need to take out doubt in chatbox.
+
 ![image](https://github.com/user-attachments/assets/cd37839f-1248-4966-a69d-80c844b7dca8)
+
 Remembering that Dataset is about Windows history, so the question need about it.
 ![image](https://github.com/user-attachments/assets/55875ed2-1832-4bce-82e8-a28e53dc4235)
 
@@ -44,6 +48,25 @@ And where pick up models:
 
 # 2 - Summarize
 
+Ideal use this tools in situation that I need summary big text in small text. 
+
+![image](https://github.com/user-attachments/assets/8e2891f3-947a-4c9f-adf0-7c6f4b6e37cc)
+Reinforcing, summary create here, is with base on the dataset created with data: https://pt.wikipedia.org/wiki/Microsoft_Office
+
+![image](https://github.com/user-attachments/assets/f3755e2f-5dbe-4d5d-bb6f-49584c768ae3)
+
+Summary followed the parameters include in the code.
+![image](https://github.com/user-attachments/assets/d3c83640-57be-47e6-8f0c-d6ca1427e983)
 
 # 3 - Sentiment Analysis 
+
+Ideal use this tools in opinions, reviews situations, because it rate in "Positive", "Neutral", "Negative"
+
+Example below, we evaluate the sentence directly: "Microsoft is a fantastic company, which contains wonderful products that make our daily lives easier."
+![image](https://github.com/user-attachments/assets/7795e44c-e7d6-46f2-a080-8c4b276fe967)
+
+Result:
+![image](https://github.com/user-attachments/assets/d4f04024-461f-4e83-b29f-0ed4978e97e3)
+
+
 
